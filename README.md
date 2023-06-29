@@ -1,6 +1,6 @@
 # Investment Consultant and Investment Analyst Program - หลักสูตรที่ปรึกษาและนักวิเคราห์การลงทุน💰💹👨🏻‍💼
 
-![IC/IA Program RSU](https://drive.google.com/file/d/1UK0wUyGT8nxDrsBSFrb65e-L4MHSNG-_/view?usp=sharing)
+![IC/IA Program RSU](https://drive.google.com/uc?id=1UK0wUyGT8nxDrsBSFrb65e)
 
 | #  |     Date      | Subjects | Instructors |  |
 |----|---------------|----------|----------|----------|
