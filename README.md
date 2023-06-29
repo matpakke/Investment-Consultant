@@ -1,8 +1,8 @@
-# หลักสูตรที่ปรึกษาและนักวิเคราะห์การลงทุน (หลักสูตรต้นแบบ)
+# Investment Consultant and Investment Analyst Program
 
 | #  |     Date      | Subjects | Instructors |  |
 |----|---------------|----------|----------|----------|
-| 1  | Jul 15, 2013  | - ที่มาของหลักสูตร  | 1  | 1  |
+| 1  | Jul 15, 2013  | - ที่มาของหลักสูตร <br /> - Money VS Happiness <br /> - Inportance of Tax Planning <br /> - 5 Reasons Why เริ่มเร็ว ชนะ เงินเยอะ <br /> - Chartered Financial Analyst (CFA) with Career Paths in Finance <br /> - Importance of Financial Statements | 1  | 1  |
 | 2  | Jul 16, 2023  | 2  | 2  | 2  |
 | 3  | Jul 22, 2023  | 3  | 3  | 3  |
 | 4  | Jul 23, 2023  | 4  | 4  | 4  |
