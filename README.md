@@ -7,7 +7,7 @@
 | 3  | Jul 22, 2023  | [มูลค่าเงินตามเวลา (Time Value of Money: TVM)](https://thaipfa.co.th/news/view/143) | [Yada Karnjanisakorn, CFP](https://www.linkedin.com/in/yada-karnjanisakorn-0601301a1/?originalSubdomain=th)  | CFP Module 1.3 |
 | 4  | Jul 23, 2023  | [- เครื่องมือทางการเงินในการบริหารสภาพคล่องส่วนบุคคล](https://www.thaipfa.co.th/news/view/142) <br /> [- การรวบรวมข้อมูลทางการเงินส่วนบุคคล](https://thaipfa.co.th/news/view/150) | [Yada Karnjanisakorn, CFP](https://www.linkedin.com/in/yada-karnjanisakorn-0601301a1/?originalSubdomain=th)  | CFP Module 1.2/1.4 |
 | 5  | Jul 29, 2023  | [ความรู้เบื้องต้นเกี่ยวกับภาษีเงินได้บุคคลธรรมดา ]()  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP Module 1.7  |
-| 6  | Jul 30, 2023  | [จรรยาบรรณและคู่มือการปฏิบัติงานสำหรับนักวางแผนการเงิน](https://www.mebmarket.com/index.php?action=BookDetails&book_id=2684&page_no=1)  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP Ethics and practice standard for financial planners |
+| 6  | Jul 30, 2023  | [จรรยาบรรณและคู่มือการปฏิบัติงานสำหรับนักวางแผนการเงิน](https://www.mebmarket.com/index.php?action=BookDetails&book_id=2684&page_no=1)  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP Ethics and Practice Standard for Financial Planners |
 | 7  | Aug 05, 2023  | 7  | 7  | 7  |
 | 8  | Aug 06, 2023  | 8  | 8  | 8  |
 | 9  | Aug 12, 2023  | 9  | 9  | 9  |
@@ -26,4 +26,34 @@
 
 - [คู่มือการสอบหลักสูตรการวางแผนการเงิน CFP®](https://www.tfpa.or.th/9e6417ebffecef071/Upload/01_Guide%20to%20CFP%20certification%20examination.pdf)
 - [CFP Training - Thai Professional Finance Academy (ThaiPFA)](https://www.youtube.com/playlist?list=PLdhZ853PBa5rAEwDF-m0XHO50SuRY9e74)
-- [แนวทางในการสอบ หลักสูตรการวางแผนการเงิน CFP ฉบับที่ 1 พื้นฐานการวางแผนการเงิน ภาษี และจรรยาบรรณ](https://thaipfa.co.th/article/view/106)
+## [แนวทางในการสอบ หลักสูตรการวางแผนการเงิน CFP ฉบับที่ 1 พื้นฐานการวางแผนการเงิน ภาษี และจรรยาบรรณ](https://thaipfa.co.th/article/view/106)
+
+| หัวข้อในการวัด                                            | จำนวนข้อ |
+|--------------------------------------------------------|---------|
+| ความรู้เบื้องต้นเกี่ยวกับการวางแผนทางการเงิน                     | 6-10    |
+| เครื่องมือทางการเงินสำหรับการบริหารสภาพคล่องส่วนบุคคล           | 6-10    |
+| มูลค่าเงินตามเวลา                                         | 11-15   |
+| การรวบรวมข้อมูลทางการเงินส่วนบุคคล                          | 9-13    |
+| การวิเคราะห์ข้อมูลส่วนบุคคล                                  | 9-13    |
+| ความรู้เบื้องต้นเกี่ยวกับภาษีเงินได้ส่วนบุคคล                       | 11-15   |
+| จรรยาบรรณ และคู่มือการปฏิบัติงานสำหรับนักวางแผนการเงิน          | 21      |
+
+
+- [IC PLAIN ผู้แนะนำการลงทุนด้านหลักทรัพย์ SECURITIES INVESTMENT CONSULTANT (P1)](https://thaipfa.co.th/course/view/21/IC-Plain)
+- [CFP Module 1 Exam Review](https://www.kititouch.com/cfp-module1-certify/)
+
+
+## [แนวทางในการสอบ หลักสูตรการวางแผนการเงิน CFP ฉบับที่ 2 การวางแผนการลงทุน](https://thaipfa.co.th/news/view/129)
+
+| หัวข้อในการวัด                                     |   จำนวนข้อ    |
+|-------------------------------------------------|--------------|
+| แนวคิดเบื้องต้นเกี่ยวกับการลงทุนและการวางแผนการลงทุน     | 4-8 ข้อ      |
+| หลักทรัพย์ลงทุนในตลาดเงินและตลาดตราสารทุน            | 6-10 ข้อ     |
+| หลักทรัพย์ลงทุนในตลาดตราสารหนี้และอนุพันธ์             | 6-10 ข้อ     |
+| การลงทุนในทางเลือกอื่น                              | 6-10 ข้อ     |
+| ข้อมูลและการวิเคราะห์ข้อมูลเพื่อตัดสินใจลงทุน             | 6-10 ข้อ      |
+| ความรู้พื้นฐานเกี่ยวกับการบริหารกลุ่มหลักทรัพย์             | 6-10 ข้อ      |
+| การจัดสรรเงินลงทุนในกลุ่มหลักทรัพย์                    | 6-10 ข้อ      |
+| กลยุทธ์การบริหารกลุ่มหลักทรัพย์                        | 6-10 ข้อ     |
+| การวัดผลตอบแทนกลุ่มหลักทรัพย์                       | 6-10 ข้อ      |
+| แนวทางปฏิบัติในการขาย และการให้บริการด้านผลิตภัณฑ์ และมาตรฐานการปฏิบัติงานสำหรับผู้ทำหน้าที่ติดต่อกับผู้ลงทุน* | 15 ข้อ |
