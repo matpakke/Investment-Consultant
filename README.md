@@ -7,7 +7,7 @@
 | 3  | Jul 22, 2023  | [มูลค่าเงินตามเวลา (Time Value of Money: TVM)](https://thaipfa.co.th/news/view/143) | [Yada Karnjanisakorn, CFP](https://www.linkedin.com/in/yada-karnjanisakorn-0601301a1/?originalSubdomain=th)  | CFP Module 1.3 |
 | 4  | Jul 23, 2023  | [- เครื่องมือทางการเงินในการบริหารสภาพคล่องส่วนบุคคล](https://www.thaipfa.co.th/news/view/142) <br /> [- การรวบรวมข้อมูลทางการเงินส่วนบุคคล](https://thaipfa.co.th/news/view/150) | [Yada Karnjanisakorn, CFP](https://www.linkedin.com/in/yada-karnjanisakorn-0601301a1/?originalSubdomain=th)  | CFP Module 1.2/1.4 |
 | 5  | Jul 29, 2023  | [ความรู้เบื้องต้นเกี่ยวกับภาษีเงินได้บุคคลธรรมดา ]()  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP Module 1.7  |
-| 6  | Jul 30, 2023  | [จรรยาบรรณและคู่มือการปฏิบัติงานสำหรับนักวางแผนการเงิน](https://www.mebmarket.com/index.php?action=BookDetails&book_id=2684&page_no=1)  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP |
+| 6  | Jul 30, 2023  | [จรรยาบรรณและคู่มือการปฏิบัติงานสำหรับนักวางแผนการเงิน](https://www.mebmarket.com/index.php?action=BookDetails&book_id=2684&page_no=1)  | [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th)  | CFP Ethics and practice standard for financial planners |
 | 7  | Aug 05, 2023  | 7  | 7  | 7  |
 | 8  | Aug 06, 2023  | 8  | 8  | 8  |
 | 9  | Aug 12, 2023  | 9  | 9  | 9  |
