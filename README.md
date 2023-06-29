@@ -1,4 +1,4 @@
-# Investment Consultant and Investment Analyst Program
+# Investment Consultant and Investment Analyst Program 💰💹👨🏻‍💼
 
 | #  |     Date      | Subjects | Instructors |  |
 |----|---------------|----------|----------|----------|
