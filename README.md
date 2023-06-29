@@ -21,7 +21,7 @@
 | 17 | Sep 09, 2023  | [การจัดสรรสินทรัพย์ลงทุน]() | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) | 17 |
 | 18 | Sep 10, 2023  | [กลยุทธ์การบริหารกลุ่มหลักทรัพย์]() | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) | 18 |
 | 19 | Sep 16, 2023  | [การติดตาม และปรับปรุงกลุ่มหลักทรัพย์]() | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) | 19 |
-| 20 | Sep 17, 2023  | [การบริหารความมั่งคั่งและการเงินเชิงพฤติกรรม] | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) | 20 |
+| 20 | Sep 17, 2023  | [การบริหารความมั่งคั่งและการเงินเชิงพฤติกรรม]() | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) | 20 |
 | 21 |               | 21 | 21 | 21 |
 
 - [คู่มือการสอบหลักสูตรการวางแผนการเงิน CFP®](https://www.tfpa.or.th/9e6417ebffecef071/Upload/01_Guide%20to%20CFP%20certification%20examination.pdf)
