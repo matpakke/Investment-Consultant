@@ -58,4 +58,4 @@
 | การวัดผลตอบแทนกลุ่มหลักทรัพย์                       | 6-10 ข้อ      |
 | แนวทางปฏิบัติในการขาย และการให้บริการด้านผลิตภัณฑ์ และมาตรฐานการปฏิบัติงานสำหรับผู้ทำหน้าที่ติดต่อกับผู้ลงทุน* | 15 ข้อ |
 
-![AFPT to CFP](https://i.ibb.co/gSqjDbd/Investment-Licenses.jpg)
+![AFPT to CFP](https://www.thaipfa.co.th/uploads/file/63787ef4c.jpg)
