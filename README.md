@@ -64,7 +64,7 @@
 ---
 
 ![Non-degree IC](https://thaipfa.co.th/uploads/file/74801f02a.jpg)
-![image info](C:\Users\USER\OneDrive\Desktop\Investment-Consultant\img\Non-Degree1.jpg)
+![image info](img\Non-Degree1.jpg)
 
 # [รู้ยังไม่จบปริญญาตรี ก็สามารถขึ้นทะเบียน IC และ IP ได้แล้วนะ](https://thaipfa.co.th/news/view/253)
 
