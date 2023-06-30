@@ -63,7 +63,6 @@
 
 ---
 
-![Non-degree IC](https://thaipfa.co.th/uploads/file/74801f02a.jpg)
 ![image info](img/Non-Degree1.jpg)
 
 # [รู้ยังไม่จบปริญญาตรี ก็สามารถขึ้นทะเบียน IC และ IP ได้แล้วนะ](https://thaipfa.co.th/news/view/253)
@@ -83,6 +82,6 @@
 
 เหมือนสอบครั้งเดียวได้ ขึ้นทะเบียน คุณวุฒิชิชาชีพ ทางการเงินได้ ถึง 2 ได้เลย 
 
-![Non-degree IP](https://thaipfa.co.th/uploads/file/74200d5b3.jpg)
+![image info](img/Non-Degree2.jpg)
 
 หากมีข้อสงสัย ในเรื่องใบอนุญาตทางการเงิน หรือคุณวุฒิวิชาชีพ IC หรือ IP หรือ AFPT หรือ CFP สามารถดู VDO ได้ที่  [https://thaipfa.co.th/news/view/155](https://thaipfa.co.th/news/view/155) และ [https://thaipfa.co.th/news/view/215](https://thaipfa.co.th/news/view/215)
