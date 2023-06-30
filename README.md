@@ -1,5 +1,7 @@
 # Investment Consultant and Investment Analyst Program - หลักสูตรที่ปรึกษาและนักวิเคราห์การลงทุน💰💹👨🏻‍💼
 
+![RSU](img/RSU.jpg)
+
 | #  |     Date      | Subjects | Instructors |  |
 |----|---------------|----------|----------|----------|
 | 1  | Jul 15, 2013  | - ที่มาของหลักสูตร <br /> - Money VS Happiness <br /> - Inportance of Tax Planning <br /> - 5 Reasons Why เริ่มเร็ว ชนะ เงินเยอะ <br /> - Chartered Financial Analyst (CFA) with Career Paths in Finance <br /> - Importance of Financial Statements | [Wongsakorn Charoenpanitseri, CFP](https://www.linkedin.com/in/wongsakorn-charoenpanitseri-0130431b4/?originalSubdomain=th) <br /> [Yada Karnjanisakorn, CFP](https://www.linkedin.com/in/yada-karnjanisakorn-0601301a1/?originalSubdomain=th) <br /> [Chatchada Singchoovong, CFP](https://www.linkedin.com/in/chatchada-singchoovong-cfp%C2%AE-8947801a5/?originalSubdomain=th) <br /> [Preecha Manop, CFP](https://www.facebook.com/preecha.manop/) <br /> [Pakpoom Visawameteekul, CFA](https://www.linkedin.com/in/pakpoom-visawameteekul-cfa-frm-6415064b/?originalSubdomain=th) <br /> [Rattaya Jaroenpanitsaeree, CFP](https://www.linkedin.com/in/rattaya-jaroenpanitsaeree-255a41161/?originalSubdomain=th) | 1  |
